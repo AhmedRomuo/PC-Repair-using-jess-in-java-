@@ -1,0 +1,44 @@
+can’t turn on
+error message before splash screen
+error message after splash screen
+continue beep noise
+shut down itself
+can’t open a specific file
+blue screen of death
+dll message problem
+app running slowly
+malware message
+internet connectivity
+hard disk failure
+noise from hard disk
+Frozen screen of app
+Overheating
+Message CPU overheat
+Application won’t install
+Peripherals stop working
+Peripherals not work
+Not use maximum RAM
+Crash before loading OS
+Monitor show the boot up and stop
+Monitor connect but not showing image
+Internet slow
+Keyboard write wrong
+Windows slow booting
+Windows not update successfully
+App command not work
+Apps commands not work
+Apps commands will not work
+Download take long time
+Download disconnect many times
+Pop-up ads appearing on desktop
+Problem website certificate
+Printer won’t print
+Printer work and stop
+Error 404 page not found
+Get data loses
+Parameter is incorrect
+Disk full message
+Manufacturing fault
+Port conflict problem
+Full disk system problem
+Some windows tools not work
